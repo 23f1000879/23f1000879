@@ -31,272 +31,58 @@
 
 ---
 
-## 🟣 About Me
+---
 
-<img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+## 👨‍💻 About Me
 
-I'm **Bharat Choudhary**, an engineering-minded **AI/ML Engineer** and **Data Scientist** currently pursuing my **M.Tech in Mathematics and Computing at NIT Delhi**. I specialize in translating ambiguous, real-world problems into production-grade machine learning systems — from deep learning pipelines processing raw sensor and audio data, to full-stack applications that put models in front of users.
-
-My engineering philosophy centers on **rigor, reproducibility, and shipping** — I don't just train models, I build the surrounding infrastructure: data pipelines, evaluation frameworks, APIs, and interfaces that make ML systems usable in production.
-
-- 🔭 Currently engineering deep learning pipelines spanning **audio classification**, **NLP**, and **geospatial/climate modeling**
-- 🧠 Strong foundation in **statistical modeling, regression, classification, and clustering**
-- 🛠️ Comfortable across the full stack — **Python/Flask backends**, **PyTorch/TensorFlow modeling**, and **SQL-driven data systems**
-- 🚀 Product engineering mindset — I care about performance, scalability, and real-world impact, not just leaderboard metrics
-- 🌱 Actively sharpening data structures & algorithms fundamentals through structured problem-solving
-
-**Open To:**
-
-```yaml
-Roles:        Machine Learning Engineer, AI Engineer, Data Scientist, SDE (ML-focused)
-Type:         Internships, Full-Time Roles, Research Collaborations
-Domains:      Healthcare Analytics, Applied AI, Climate/Geospatial ML, Product Engineering
-Location:     Gurgaon / NCR / Remote
-```
+- 🎓 **M.Tech Mathematics & Computing (2025–2027)** | NIT Delhi
+- 🎓 **B.S. Data Science (Expected 2027)** | IIT Madras
+- 🎓 **B.Tech Computer Science & Engineering (2021–2025)** | Bikaner Technical University
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Data Science**
+- 🌱 Currently exploring **Deep Learning, Generative AI & MLOps**
+- 🔬 Interested in **Computer Vision, NLP and Climate AI**
+- 💻 Love building **AI-powered applications and end-to-end ML systems**
+- 🏆 Ranked **3rd in College Startup Innovation Competition**
+- 📫 Reach me at **choudharybharat4712@gmail.com**
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
 
 ---
 
-## 🟣 Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<img src="https://skillicons.dev/icons?i=python,java,sql&theme=dark" />
-
-**Machine Learning & Deep Learning**
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square)
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=flask,mysql,nodejs&theme=dark" />
-
-**Data Analysis & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-6D28D9?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-6D28D9?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-6D28D9?style=flat-square&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-6D28D9?style=flat-square&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-6D28D9?style=flat-square&logo=plotly&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power%20BI-6D28D9?style=flat-square&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-6D28D9?style=flat-square&logo=tableau&logoColor=white)
-
-**Cloud, DevOps & Tooling**
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,jupyter&theme=dark" />
-
-</div>
-
----
-
-## 🟣 AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **Deep Learning** | ⭐⭐⭐⭐☆ | CNNs, ResNets, Transformer-based architectures for classification tasks |
-| **Audio & Signal Processing** | ⭐⭐⭐⭐☆ | Mel spectrogram feature extraction, Librosa-based pipelines |
-| **Natural Language Processing** | ⭐⭐⭐☆☆ | Tokenization, text normalization, classical + neural text classifiers |
-| **Statistical Modeling** | ⭐⭐⭐⭐☆ | Regression, hypothesis testing, exploratory data analysis |
-| **Classical Machine Learning** | ⭐⭐⭐⭐☆ | Logistic Regression, SGD, Naive Bayes, ensemble methods |
-| **MLOps & Experiment Tracking** | ⭐⭐⭐☆☆ | Weights & Biases, reproducible training pipelines |
-| **Data Engineering** | ⭐⭐⭐⭐☆ | Data cleaning, feature engineering, pipeline design at scale |
-
-</div>
-
----
-
-## 🟣 Featured Projects
-
-<details open>
-<summary><b>🎧 Audio Classification using Deep Learning</b></summary>
-<br/>
-
-End-to-end audio classification pipeline built on **PyTorch** and **Librosa**, engineered to convert raw audio into high-fidelity Mel spectrogram feature representations suitable for deep architectures.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python, PyTorch, Librosa, Weights & Biases |
-| **Scale** | Large-scale audio dataset with structured train/validation pipeline |
-| **Performance** | 0.82 macro F1-score after hyperparameter tuning |
-| **Security** | Isolated preprocessing pipeline, reproducible experiment configs |
-| **Impact** | Benchmarked CNN, ResNet & Transformer architectures for optimal accuracy |
-| **Repository** | [View Repository](https://github.com/23f1000879) |
-
-Designed and trained multiple architecture families — **CNNs, ResNets, and Transformer-based models** — under a unified evaluation harness, with **Weights & Biases** integrated for full experiment traceability. The pipeline was architected to scale cleanly to larger audio corpora without re-engineering the feature extraction layer.
-
-</details>
-
-<details>
-<summary><b>💬 Comment Classification with EDA</b></summary>
-<br/>
-
-A text classification system built on rigorous **exploratory data analysis**, surfacing class imbalance and data quality issues before model design — resulting in a more robust final classifier.
-
-| Attribute | Detail |
-|---|---|
-| **Stack** | Python, Scikit-learn, Matplotlib, Seaborn, Plotly |
-| **Scale** | Full-corpus text pipeline with tokenization & normalization |
-| **Performance** | 0.85 macro F1-score across evaluated models |
-| **Security** | Clean train/test separation to prevent data leakage |
-| **Impact** | Delivered visualization-backed insights for data-driven decisions |
-| **Repository** | [View Repository](https://github.com/23f1000879) |
-
-Identified and resolved **class imbalance** and **missing value** issues through structured EDA, then benchmarked **Logistic Regression, SGD, and Naive Bayes** classifiers, selecting the best-performing configuration based on macro F1-score.
-
-</details>
-
----
-
-## 🟣 Experience
-
-**Research Intern** · Orbitx India Aerospace
-`Aug 2023 — Jan 2024` · Jaipur, India
-
-Contributed to aerobraking control system research for reusable launch vehicles, applying data-driven optimization to real-world aerospace simulation data.
-
-- Analyzed simulation data using **Python** and **MATLAB** to improve aerobraking control systems
-- Improved trajectory stability metrics by **~20%** using data-driven optimization models
-- Applied predictive modeling techniques to optimize system performance on real-world simulation datasets
-- Collaborated with cross-functional engineering teams to translate data insights into design decisions
-
-`Python` `MATLAB` `Predictive Modeling` `Aerospace Simulation` `Data Optimization`
-
----
-
-## 🟣 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-|---|---|
-| 🏆 **Eureka! 2024, IIT Bombay** | Ranked Top 500 out of 25,000+ competing teams |
-| 🎓 **Advanced Certification** | Machine Learning and Data Science — IIT Madras |
-| 🎓 **Advanced Certification** | Programming and Application Development — IIT Madras |
-| 📜 **Diploma in Programming** | IIT Madras |
-| 📜 **Diploma in Data Science** | IIT Madras |
-| ☁️ **Cloud Computing Fundamentals** | IBM Certification |
-
-</div>
-
----
-
-## 🟣 Certifications
-
-<div align="center">
-
-**IIT Madras**
-
-![ML & DS](https://img.shields.io/badge/Machine%20Learning%20%26%20Data%20Science-6D28D9?style=for-the-badge)
-![PAD](https://img.shields.io/badge/Programming%20%26%20App%20Development-6D28D9?style=for-the-badge)
-![Diploma Programming](https://img.shields.io/badge/Diploma%20in%20Programming-7C3AED?style=for-the-badge)
-![Diploma DS](https://img.shields.io/badge/Diploma%20in%20Data%20Science-7C3AED?style=for-the-badge)
-
-**IBM**
-
-![IBM Cloud](https://img.shields.io/badge/Cloud%20Computing%20Fundamentals-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
-</div>
-
----
-
-## 🟣 Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/your-leetcode"><img src="https://img.shields.io/badge/LeetCode-262626?style=for-the-badge&logo=leetcode&logoColor=FFA116"/></a>
-<a href="https://www.geeksforgeeks.org/user/your-gfg"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/your-hackerrank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-<a href="https://www.codechef.com/users/your-codechef"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
-
-</div>
-
----
-
-## 🟣 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=23f1000879&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=23f1000879&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f1000879&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" />
-
-</div>
-
----
-
-## 🟣 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=23f1000879&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
-
-</div>
-
----
-
-## 🟣 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=23f1000879&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9A9FF" />
-
-</div>
-
----
-
-## 🟣 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/23f1000879/23f1000879/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
-
----
-
-## 🟣 Current Focus
-
-```yaml
-Learning:
-  - Advanced Data Structures & Algorithms
-  - MLOps & Model Deployment at Scale
-  - Cloud-native AI Infrastructure
-
-Building:
-  - Deep learning pipelines for audio & text classification
-  - Full-stack ML-powered web applications
-
-Exploring:
-  - Climate & geospatial deep learning applications
-  - Large Language Model fine-tuning workflows
-
-Open To:
-  - ML/AI Engineering Internships & Full-Time Roles
-  - Research Collaborations
-  - Open Source Contributions
-```
-
----
-
-## 🟣 Connect With Me
-
-<div align="center">
-
-<a href="mailto:choudharybharat4712@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-5A2D9C?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/23f1000879"><img src="https://img.shields.io/badge/GitHub-3B0764?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-
-</div>
-
-<br/>
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/Java-05122A?style=flat&logo=openjdk)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-05122A?style=flat&logo=mysql)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C++](https://img.shields.io/badge/C++-05122A?style=flat&logo=c%2B%2B)&nbsp;
+
+### 🌐 Web Development
+![React](https://img.shields.io/badge/React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express.js](https://img.shields.io/badge/Express-05122A?style=flat&logo=express)&nbsp;
+![Flask](https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask)&nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+
+### 🤖 AI / Machine Learning
+![PyTorch](https://img.shields.io/badge/PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-05122A?style=flat&logo=scikitlearn)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-05122A?style=flat&logo=pandas)&nbsp;
+![NumPy](https://img.shields.io/badge/NumPy-05122A?style=flat&logo=numpy)&nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![XGBoost](https://img.shields.io/badge/XGBoost-05122A?style=flat)&nbsp;
+![LightGBM](https://img.shields.io/badge/LightGBM-05122A?style=flat)&nbsp;
+
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-05122A?style=flat&logo=github)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker)&nbsp;
+![Jupyter](https://img.shields.io/badge/Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
+![VS Code](https://img.shields.io/badge/VS%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-05122A?style=flat&logo=vercel)&nbsp;
 
 <div align="center">
 
