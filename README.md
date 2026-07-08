@@ -67,7 +67,7 @@ Location:     Gurgaon / NCR / Remote
 **Machine Learning & Deep Learning**
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-![HuggingFace](https://img.shields.io/badge/HuggingFace-6D28D9?style=flat-square&logo=huggingface&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Backend & Databases**
 
