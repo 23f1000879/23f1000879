@@ -39,7 +39,7 @@
 - 💻 Love building **AI-powered applications and end-to-end ML systems**
 - 🏆 Ranked **3rd in College Startup Innovation Competition**
 - 📫 Reach me at **choudharybharat4712@gmail.com**
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+- 💼 [LinkedIn](https://linkedin.com/in/bharat-choudhary-iitm)
 
 ---
 
