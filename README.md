@@ -15,7 +15,7 @@
 <br/>
 
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-5A2D9C?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/bharat-choudhary-iitm"><img src="https://img.shields.io/badge/LinkedIn-5A2D9C?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:choudharybharat4712@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/23f1000879"><img src="https://img.shields.io/badge/GitHub-3B0764?style=for-the-badge&logo=github&logoColor=white"/></a>
 
