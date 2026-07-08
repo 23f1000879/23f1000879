@@ -17,13 +17,13 @@
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-5A2D9C?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:choudharybharat4712@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/bharatchoudhary4712"><img src="https://img.shields.io/badge/GitHub-3B0764?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/23f1000879"><img src="https://img.shields.io/badge/GitHub-3B0764?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=bharatchoudhary4712&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/bharatchoudhary4712?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github)
-![Stars](https://img.shields.io/github/stars/bharatchoudhary4712?style=for-the-badge&color=6d28d9&label=STARS&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=23f1000879&style=for-the-badge&color=8b5cf6&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/23f1000879?style=for-the-badge&color=7c3aed&label=FOLLOWERS&logo=github)
+![Stars](https://img.shields.io/github/stars/23f1000879?style=for-the-badge&color=6d28d9&label=STARS&logo=github)
 
 </div>
 
@@ -124,7 +124,7 @@ End-to-end audio classification pipeline built on **PyTorch** and **Librosa**, e
 | **Performance** | 0.82 macro F1-score after hyperparameter tuning |
 | **Security** | Isolated preprocessing pipeline, reproducible experiment configs |
 | **Impact** | Benchmarked CNN, ResNet & Transformer architectures for optimal accuracy |
-| **Repository** | [View Repository](https://github.com/bharatchoudhary4712) |
+| **Repository** | [View Repository](https://github.com/23f1000879) |
 
 Designed and trained multiple architecture families — **CNNs, ResNets, and Transformer-based models** — under a unified evaluation harness, with **Weights & Biases** integrated for full experiment traceability. The pipeline was architected to scale cleanly to larger audio corpora without re-engineering the feature extraction layer.
 
@@ -143,7 +143,7 @@ A text classification system built on rigorous **exploratory data analysis**, su
 | **Performance** | 0.85 macro F1-score across evaluated models |
 | **Security** | Clean train/test separation to prevent data leakage |
 | **Impact** | Delivered visualization-backed insights for data-driven decisions |
-| **Repository** | [View Repository](https://github.com/bharatchoudhary4712) |
+| **Repository** | [View Repository](https://github.com/23f1000879) |
 
 Identified and resolved **class imbalance** and **missing value** issues through structured EDA, then benchmarked **Logistic Regression, SGD, and Naive Bayes** classifiers, selecting the best-performing configuration based on macro F1-score.
 
@@ -220,12 +220,12 @@ Contributed to aerobraking control system research for reusable launch vehicles,
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bharatchoudhary4712&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=bharatchoudhary4712&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=23f1000879&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9C9C9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=23f1000879&theme=radical&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" />
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharatchoudhary4712&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=23f1000879&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9C9C9" />
 
 </div>
 
@@ -235,7 +235,7 @@ Contributed to aerobraking control system research for reusable launch vehicles,
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=bharatchoudhary4712&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=23f1000879&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
@@ -245,7 +245,7 @@ Contributed to aerobraking control system research for reusable launch vehicles,
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=bharatchoudhary4712&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9A9FF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=23f1000879&theme=react-dark&hide_border=true&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C9A9FF" />
 
 </div>
 
@@ -255,7 +255,7 @@ Contributed to aerobraking control system research for reusable launch vehicles,
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bharatchoudhary4712/bharatchoudhary4712/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/23f1000879/23f1000879/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -291,7 +291,7 @@ Open To:
 
 <a href="mailto:choudharybharat4712@gmail.com"><img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-5A2D9C?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/bharatchoudhary4712"><img src="https://img.shields.io/badge/GitHub-3B0764?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/23f1000879"><img src="https://img.shields.io/badge/GitHub-3B0764?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 
 </div>
