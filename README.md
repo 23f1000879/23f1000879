@@ -1,30 +1,23 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Bharat%20Choudhary&fontSize=42&fontColor=C9A9FF&animation=fadeIn&fontAlignY=40&desc=AI/ML%20Engineer%20%7C%20Data%20Scientist%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=15" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=2500&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+Profile;M.Tech+Mathematics+%26+Computing+%40+NIT+Delhi;AI%2FML+Engineer+%7C+Data+Scientist;Building+AI+for+Real-World+Problems" alt="Typing SVG" />
 </a>
-
 <br/><br/>
-
+  
 ![Academic](https://img.shields.io/badge/M.Tech-Mathematics%20%26%20Computing-6D28D9?style=flat&logo=googlescholar&logoColor=white)
 ![University](https://img.shields.io/badge/NIT-Delhi-8B5CF6?style=flat&logo=studyverse&logoColor=white)
 ![Location](https://img.shields.io/badge/Based%20in-India-7C3AED?style=flat&logo=googlemaps&logoColor=white)
 
 <br/><br/>
-
 <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-9D4EDD?style=flat&logo=vercel&logoColor=white"/></a>
 <a href="https://linkedin.com/in/bharat-choudhary-iitm"><img src="https://img.shields.io/badge/LinkedIn-5A2D9C?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:choudharybharat4712@gmail.com"><img src="https://img.shields.io/badge/Email-6D28D9?style=flat&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/23f1000879"><img src="https://img.shields.io/badge/GitHub-3B0764?style=flat&logo=github&logoColor=white"/></a>
-
 <br/><br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=23f1000879&style=flat&color=8b5cf6&label=Profile+Views)
 ![Followers](https://img.shields.io/github/followers/23f1000879?style=flat&color=7c3aed&label=Followers&logo=github)
 ![Stars](https://img.shields.io/github/stars/23f1000879?style=flat&color=6d28d9&label=Stars&logo=github)
-
 </div>
 
 <br/>
